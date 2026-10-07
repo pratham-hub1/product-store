@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Gel Pen">
+  <defs>
+    <linearGradient id="bg-pen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffbeb"/>
+      <stop offset="1" stop-color="#fef3c7"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg-pen)"/>
+  <circle cx="200" cy="150" r="112" fill="#ffffff" opacity="0.55"/>
+  <g transform="translate(200 150)" fill="none" stroke="#d97706" stroke-width="9"
+     stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-17" y="-72" width="34" height="122" rx="9"/>
+    <path d="M-17 50 H17 L0 86 Z"/>
+    <line x1="10" y1="-72" x2="10" y2="-34"/>
+  </g>
+</svg>
